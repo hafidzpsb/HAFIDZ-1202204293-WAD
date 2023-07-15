@@ -170,7 +170,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-5 mt-4">
-							<h2 style="text-align: left; margin-left: 20px;"><b>Jarwo Kuat</b></h2><br>
+							<h2 style="text-align: left; margin-left: 20px;"><b>Hafidz</b></h2><br>
 						</div>
 						<div class="col-md-5 offset-md-2 mt-4">
 							<h2 style="text-align: right; margin-right: 20px; color: grey;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#daa520" class="bi bi-star-fill" viewBox="0 0 16 16"><path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/></svg><b> 4.5</b></h2><br>
@@ -242,9 +242,9 @@
 			</div>
 			<div class="col-md-5 offset-md-2">
 				<div class="container p-4">
-					<h5 style="color: #fff"><b>Nama: Jono</b></h5>
-					<h5 style="color: #fff"><b>NIM: 1203302031</b></h5>
-					<h5 style="color: #fff"><b>Kode Asprak: ASIX</b></h5>
+					<h5 style="color: #fff"><b>Nama: Hafidz Pasaribu</b></h5>
+					<h5 style="color: #fff"><b>NIM: 1202204293</b></h5>
+					<h5 style="color: #fff"><b>Kode Asprak: MHAP</b></h5>
 				</div>
 			</div>
 		</div>
